@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T-Gamer\\Documents\\GitHub\\eorenas\\Projetos\\teste_c#_soma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8135D729-17C5-4266-B918-FBABCF72A0CC}|teste_c#_soma\\teste_c#_soma.csproj|c:\\users\\t-gamer\\documents\\github\\eorenas\\projetos\\teste_c#_soma\\teste_c#_soma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8135D729-17C5-4266-B918-FBABCF72A0CC}|teste_c#_soma\\teste_c#_soma.csproj|solutionrelative:teste_c#_soma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8135D729-17C5-4266-B918-FBABCF72A0CC}|teste_c#_soma\\teste_c#_soma.csproj|c:\\users\\t-gamer\\documents\\github\\eorenas\\projetos\\teste_c#_soma\\teste_c#_soma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8135D729-17C5-4266-B918-FBABCF72A0CC}|teste_c#_soma\\teste_c#_soma.csproj|solutionrelative:teste_c#_soma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\Documents\\GitHub\\eorenas\\Projetos\\teste_c#_soma\\teste_c#_soma\\Form1.cs",
+              "RelativeDocumentMoniker": "teste_c#_soma\\Form1.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\Documents\\GitHub\\eorenas\\Projetos\\teste_c#_soma\\teste_c#_soma\\Form1.cs",
+              "RelativeToolTip": "teste_c#_soma\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:34:24.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\T-Gamer\\Documents\\GitHub\\eorenas\\Projetos\\teste_c#_soma\\teste_c#_soma\\Form1.cs",
+              "RelativeDocumentMoniker": "teste_c#_soma\\Form1.cs",
+              "ToolTip": "C:\\Users\\T-Gamer\\Documents\\GitHub\\eorenas\\Projetos\\teste_c#_soma\\teste_c#_soma\\Form1.cs [Design]",
+              "RelativeToolTip": "teste_c#_soma\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:30:38.601Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

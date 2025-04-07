@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\bin\Debug\teste_c#_soma.exe.config
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\bin\Debug\teste_c#_soma.exe
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\bin\Debug\teste_c#_soma.pdb
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c#_soma.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c__soma.Form1.resources
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c__soma.Properties.Resources.resources
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c#_soma.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c#_soma.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c#_soma.exe
+C:\Users\T-Gamer\Documents\GitHub\eorenas\Projetos\teste_c#_soma\teste_c#_soma\obj\Debug\teste_c#_soma.pdb
